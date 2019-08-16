@@ -1,0 +1,24 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.logo {
+	width: 200px;
+	border: black solid 3px;
+	padding: 5px;
+	margin: 5px 50px 50px 5px;
+
+}
+
+nav {
+	color: #111111;
+	font-size: 2em;
+	text-align: center;
+	margin: auto;
+}
+
+nav p {
+	font-size: .9em;
+	color: grey;
+	display: inline-block;
+}
